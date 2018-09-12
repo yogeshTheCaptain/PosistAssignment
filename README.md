@@ -1,4 +1,4 @@
 # Posist
 
-* It will work in any IDE supporting Java
-* Inserting , creating and attaching records only
+* All steps are implemented
+* It can be run in any IDE supporting C++
